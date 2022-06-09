@@ -1,6 +1,6 @@
 ---
 title: "My Brag Sheet (click on post for more details)"
-date: 2022-06-08
+date: 2022-06-8
 ---
 Hello, this is my brag sheet:
 [bragsheet.pdf](https://github.com/Dunwich8/github-pages-with-jekyll/files/6644299/bragsheet.pdf)
